@@ -1,0 +1,11 @@
+----- PROJECT MANAGEMENT APP -----
+
+--->  Adding a "Projects Sidebar" Component
+---> Styling the Sidebar & Button with Tailwind CSS
+---> Adding the "New Project" Component & A Reusable "Input" Component
+---> Managing State to Switch Between Components
+--->  Collecting User Input with Refs & Forwarded Refs
+---> Validating User Input & Showing an Error Modal via useImperativeHandle
+--->  Making Projects Selectable & Viewing Project Details
+---> Adding "Project Tasks" & A Tasks Component
+---> Managing Tasks & Understanding Prop Drilling
